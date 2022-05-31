@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-aaaaaaaaaaaaaaaaaaa
-=======
-aaaaaaaaaaaaaaaaaaa
->>>>>>> cbe2cf7eb8924f2afaad323855b87dd5537e757e
-aaaaaaaaaaaadaddddddddddddddddddd
